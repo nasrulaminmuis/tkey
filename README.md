@@ -1,5 +1,5 @@
 # Script Edit TERMUX Touch Keyboard
- ![alt text][logo](https://github.com/nasrulaminmuis/tkey/blob/main/20201114_231945.jpg "touch keyboard termux keren")
+![alt text](https://github.com/nasrulaminmuis/tkey/blob/main/20201114_231945.jpg "touch keyboard termux keren")
 
 ## Cara Menggunakan
 
