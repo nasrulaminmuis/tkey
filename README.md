@@ -1,4 +1,4 @@
-# Script Edit TERMUX Touch Keyboard
+# Script Edit Touch Keyboard _TERMUX_
 ![alt text](https://github.com/nasrulaminmuis/tkey/blob/main/20201114_231945.jpg "touch keyboard termux keren")
 
 ## Cara Menggunakan
